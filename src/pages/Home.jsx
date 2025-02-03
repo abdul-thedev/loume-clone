@@ -9,7 +9,7 @@ import Profile from "../components/Profile";
 import Die from "../components/Die";
 import Loumeapp from "../components/Loumeapp";
 import Hast from "../components/Hast";
-import Neue from "../components/neue";
+import Neue from "../components/Neue";
 import Resie from "../components/Resie";
 import Tagan from "../components/Tagan";
 import Hier from "../components/Hier";
